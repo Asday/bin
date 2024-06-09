@@ -7,3 +7,4 @@ Executable | Description | Requirements
 `shuffle` | Plays a random album | `mpv` must be installed, and the path `/mnt/192.168.1.2/RO Music` must exist and contain directories each containing one album, with all tracks at the root
 `that-music` | Plays music as downloaded by [Archivist](https://github.com/Asday/archivist) | `mpv` must be installed, and the path `/mnt/192.168.1.2/Web Series/That Music/` must contain some video files
 `update-archive` | Iterates through currently archiving directories and archives anything new | [Archivist](https://github.com/Asday/archivist)
+`vid` | Shows the videos in `$1` looping in a random order | `mpv`
