@@ -1,0 +1,6 @@
+#!/bin/sh
+
+mpv --shuffle --loop-playlist \
+	/mnt/192.168.1.2/Web\ Series/That\ Music/*.mkv \
+	/mnt/192.168.1.2/Web\ Series/That\ Music/*.webm \
+	/mnt/192.168.1.2/Web\ Series/That\ Music/*.mp4

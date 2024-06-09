@@ -1,0 +1,60 @@
+#!/bin/bash
+
+cd '/mnt/192.168.1.2/Web Series'
+pushd 'Bro Team Pill'
+./run.sh
+popd
+pushd coralmines
+./run.sh
+popd
+pushd 'DELUTAYA Δ.'
+./run.sh
+popd
+pushd 'Dokibird'
+archive
+popd
+pushd 'Emerald Gemerald'
+./run.sh
+popd
+pushd FuwaFuwa
+./run.sh
+popd
+pushd 'Guren the Vtuber🌹🎸'
+archive
+popd
+pushd ianxofour
+./run.sh
+popd
+pushd Quagz
+archive
+popd
+pushd somgz
+archive
+popd
+pushd 'That Music'
+archive
+popd
+pushd 'Uto Ch. 天使うと'
+./run.sh
+popd
+pushd エビフライ
+./run.sh
+popd
+pushd てんぷら
+./run.sh
+popd
+pushd はやこじ
+./run.sh
+popd
+pushd ヤスノアトリエ
+./run.sh
+popd
+pushd ヨワテル
+./run.sh
+popd
+pushd 角巻わため
+./run.sh
+popd
+pushd Montemayor
+archive
+popd

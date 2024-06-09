@@ -1,0 +1,12 @@
+#!/bin/sh
+
+GUARD=$(uuidgen | sed "s/\-//g")
+CONTENTS=$(cat <<EOF
+#ifndef _$GUARD
+#define _$GUARD
+
+#endif
+EOF
+)
+
+echo "$CONTENTS" >> $1
